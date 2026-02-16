@@ -1,0 +1,3 @@
+kustomize:
+  images:
+    - ishtiaqahmaddevops/smartconverter.web:v1.0.2
